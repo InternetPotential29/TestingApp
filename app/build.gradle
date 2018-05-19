@@ -32,6 +32,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     def appCenterSdkVersion = '1.5.1'
     compile "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
-    compile "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"
+    compile "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"0
 
 }
